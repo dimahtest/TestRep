@@ -1,0 +1,4 @@
+Data Source=DBMSSQL\MSSQL2012;Initial Catalog=Skyvia;
+таблица PackageRuns. Нужно найти по PackageId запись и изменить в ней State:
+3- success, 4-failed
+1- queue, 2 - running
